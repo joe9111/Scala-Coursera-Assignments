@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../forcomp" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../forcomp" />
+            <option value="$PROJECT_DIR$/../forcomp/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="allowSbtVersionOverride" value="false" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../patmat/patmat" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../patmat/patmat" />
+            <option value="$PROJECT_DIR$/../patmat/patmat/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$USER_HOME$/workspace/funsets" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/workspace/funsets" />
+            <option value="$USER_HOME$/workspace/funsets/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
